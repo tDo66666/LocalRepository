@@ -18,4 +18,5 @@ public class MainClass {
 		SecondClass getCount = new SecondClass();
 		System.out.println("The count result is: " + getCount.count(3,4));
 	}
+
 }
